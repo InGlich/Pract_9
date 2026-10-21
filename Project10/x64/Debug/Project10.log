@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Пользователь\source\repos\Project10\Project10\Source.c(22,5): warning C4013: DZ: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Пользователь\source\repos\Project10\Project10\Source.c(76,19): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+  Project10.vcxproj -> C:\Users\Пользователь\source\repos\Project10\x64\Debug\Project10.exe
